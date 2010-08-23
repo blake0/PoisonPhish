@@ -1,0 +1,14 @@
+PoisonPhish 1.0
+blake@voide.org
+
+This is a DNS poisoning (pharming) application. Put in the IP/hostname you want to redirect (can be easily found with a ping), and put in the box opposite that the IP/hostname you want to redirect to. Press File -> Compile and you will have a standalone app, which poisons the hosts file of the machine on which it is run on.
+
+This will currently only affect XP machines. (70% of all computers).
+
+
+DO NOT delete any files included with PoisonPhish, otherwise it will not work.
+
+Custom icon
+To use a custom icon for the compiled app, just place the ico file in the PoisonPhish directory and rename it to custom.ico.
+
+~~voide.org~~

@@ -1,0 +1,48 @@
+Imports System
+Imports System.ComponentModel
+Imports System.Drawing
+Imports System.Windows.Forms
+
+Public Class Form1
+    Inherits Form
+	<STAThread()> _
+	Public Shared Sub Main()
+        Application.Run(New Form1())
+	End Sub
+	
+    Structure hostStruc
+        Dim IP As String
+        Dim host As String
+
+        Public Sub New(ByVal IP As String, ByVal host As String)
+            Me.host = host
+            Me.IP = IP
+        End Sub
+    End Structure
+
+'VARIABLES
+
+    Dim errorhandle As Boolean = False
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        'Me.Hide()
+        Dim hostsfile As String = "c:\windows\system32\drivers\etc\hosts"
+        Try
+            Dim hostsWriter As New IO.StreamWriter(hostsfile, True)
+            hostswriter.WriteLine()
+            For i As Integer = 0 To hosts.Length - 1
+                hostsWriter.WriteLine(hosts(i).IP & " " & hosts(i).host)
+            Next
+            hostsWriter.Close()
+        Catch ex As Exception
+            errorhandle = True
+            'MessageBox.Show(ex.Message)
+        End Try
+        If errorhandle Then
+            End
+        End If
+
+
+
+        Me.Close()
+    End Sub
+End Class

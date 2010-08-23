@@ -1,0 +1,12 @@
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\bin\Debug\PoisonPhish.exe
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\bin\Debug\PoisonPhish.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\bin\Debug\PoisonPhish.xml
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\PoisonPhish.Resources.resources
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\PoisonPhish.exe
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\PoisonPhish.xml
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\PoisonPhish.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\PoisonPhish.Main.resources
+C:\Users\Tom\documents\visual studio 2010\Projects\PoisonPhish\PoisonPhish\obj\x86\Debug\PoisonPhish.SplashScreen1.resources
